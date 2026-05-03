@@ -46,13 +46,21 @@ Analyzed:
 
 ## Key Insights
 
-- Blue card category generated highest revenue.
-- Q1 was the highest-performing quarter.
-- Bills and Fuel were top spending categories.
-- Businessman segment contributed highest revenue.
-- Blue and Silver cards had higher delinquency rates.
+TRANSACTION
 
----
+--Total revenue reached 23.44M from 278K transactions.
+--Q1 generated highest revenue, while Q2 was lowest.
+--Blue Card contributed the majority of revenue (84%+).
+--California, New York, and Texas were top revenue-generating states.
+--Bills and Fuel were the highest spending categories.
+
+CUSTOMER 
+
+--Total active customer base is 4K customers.
+--Average customer income is 56.98K with 8.57K avg credit limit.
+--Most customers belong to the 40–55 age group.
+--Businessmen and White-collar customers generated highest revenue.
+--Blue and Silver cards showed the highest delinquency rates.
 
 ## Files Included
 
