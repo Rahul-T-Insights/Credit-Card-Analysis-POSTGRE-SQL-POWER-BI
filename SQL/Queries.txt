@@ -1,0 +1,12 @@
+--Credit Card SQL Portfolio Project 
+
+1- Which top 10 states generate the highest total credit card transaction amount, and what is their average customer income?
+2- Which customer segments (Age Group + Gender + Marital Status) contribute the highest revenue through annual fees and interest earned?
+3- Find customers with high credit limits but low transaction activity. Could these customers be underutilized premium customers?
+4- Which card category (Blue, Silver, Gold, Platinum) has the highest delinquency rate, and what is the total outstanding revolving balance for each category?
+5- Identify the top 20 customers with the highest credit utilization ratio and analyze whether they are at higher risk of delinquency.
+6- Which expense types (Travel, Fuel, Grocery, Entertainment, etc.) generate the highest transaction amount and transaction count across all quarters?
+7- Compare activated vs non-activated customers (Activation_30_Days): who spends more, uses cards more frequently, and earns more interest for the bank?
+8- Which job categories (Businessman, Govt, Self-employed, White-collar, etc.) have the highest average income, credit limit, and spending behavior?
+9- Find customers whose transaction amount decreased quarter-over-quarter. Which customers may be at risk of churn?
+10- Build a customer ranking model using transaction amount, utilization ratio, income, and delinquency history to identify the top valuable customers.
